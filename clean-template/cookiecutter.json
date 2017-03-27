@@ -1,0 +1,4 @@
+{
+ "module_name": "Name of module",
+ "view_type": "UIView subclass to use in view controller"
+}
