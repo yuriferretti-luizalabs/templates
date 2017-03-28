@@ -1,4 +1,5 @@
 {
  "module_name": "Name of module",
- "view_type": "UIView subclass to use in view controller"
+ "view_type": "UIView subclass to use in view controller",
+ "using_rx": ["YES", "NO"]
 }
